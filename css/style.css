@@ -24,17 +24,17 @@ img {
   margin: 0 auto;
 }
 
-#img-div {
+#hero__img-div {
   background: white;
   padding: 10px;
   margin: 0;
 }
 
-#img-caption {
+#hero__img-caption {
   margin: 15px 0 5px 0;
 }
 
-#headline {
+#tribute-into__headline {
   margin: 50px 0;
   text-align: center;
 }
