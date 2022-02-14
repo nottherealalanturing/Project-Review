@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: "Segoe UI", "Roboto";
+  font-family: "Segoe UI", "Roboto", Arial, Helvetica, sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
