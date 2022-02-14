@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'Segoe UI', 'Roboto';
+  font-family: "Segoe UI", "Roboto";
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
@@ -16,7 +16,6 @@ h1 {
   font-size: 4rem;
   margin-bottom: 0;
 }
-
 
 img {
   max-width: 100%;
@@ -33,12 +32,6 @@ img {
 
 #img-caption {
   margin: 15px 0 5px 0;
-}
-
-@media (max-width: 460px) {
-  #img-caption {
-    font-size: 1.4rem;
-  }
 }
 
 #headline {
@@ -63,5 +56,3 @@ blockquote {
   margin: 0 auto 50px auto;
   text-align: left;
 }
-
-
